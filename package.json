@@ -1,0 +1,29 @@
+{
+  "name": "hw-nodejs-goit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nanoid": "^3.3.3",
+    "nodemon": "^2.0.15",
+    "yargs": "^17.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaSobchenko/hw-nodejs-goit.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "AnnaSobchenko <annsbchnk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaSobchenko/hw-nodejs-goit/issues"
+  },
+  "homepage": "https://github.com/AnnaSobchenko/hw-nodejs-goit#readme"
+}
